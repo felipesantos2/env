@@ -1,0 +1,6 @@
+-> https://superuser.com/questions/11008/how-do-i-find-out-what-version-of-linux-im-running
+
+uname -or
+lsb_release -irc
+lsb_release -r
+cat /etc/os-release
