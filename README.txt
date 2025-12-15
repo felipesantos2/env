@@ -5,7 +5,7 @@ Docker
 Zoxide  - cli   https://github.com/ajeetdsouza/zoxide 
 tree    - cli   https://www.cyberciti.biz/faq/linux-show-directory-structure-command-line
 vscode
-vascode insiders
+vscode insiders
 
 ## TRABALHO
 WSL
@@ -14,4 +14,4 @@ Docker
 Zoxide  - cli   https://github.com/ajeetdsouza/zoxide 
 tree    - cli   https://www.cyberciti.biz/faq/linux-show-directory-structure-command-line
 vscode
-vascode insiders
+vscode insiders
