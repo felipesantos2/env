@@ -1,5 +1,5 @@
 ## CASA
-UBUNTU
+UBUNTU 25.10
 Kernel 6.17.0-8-generic
 Git
 Docker   
@@ -11,10 +11,12 @@ vscode insiders
 Beekeeper Studio
 Brave
 Chrome
+Ghostty Terminal
 
 ## TRABALHO
-WSL
-UBUNTU  - 6.6.87.2-microsoft-standard-WSL2
+
+WSL/UBUNTU 
+Kernel 6.6.87.2-microsoft-standard-WSL2
 Git
 Docker Desktop
 Zoxide           - cli   https://github.com/ajeetdsouza/zoxide 
