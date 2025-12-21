@@ -13,6 +13,10 @@ Brave
 Chrome
 Ghostty Terminal
 
+pyenv           - cli - https://github.com/pyenv/pyenv
+pipc            - cli 
+poetry          - cli
+
 ## TRABALHO
 
 WSL/UBUNTU 
