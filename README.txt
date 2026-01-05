@@ -17,6 +17,8 @@ pyenv           - cli - https://github.com/pyenv/pyenv
 pipx            - cli 
 poetry          - cli
 
+Google Antigravity
+
 ## TRABALHO
 
 WSL/UBUNTU 
@@ -38,3 +40,5 @@ HTTPie Desktop
 [wsl]
   pyenv           - cli - https://github.com/pyenv/pyenv 
   poetry          - cli
+
+Google Antigravity
