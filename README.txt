@@ -1,4 +1,5 @@
 ## CASA
+
 UBUNTU 25.10
 Kernel 6.17.0-8-generic
 Git
@@ -21,7 +22,7 @@ Google Antigravity
 
 ## TRABALHO
 
-WSL/UBUNTU 
+WINDOWS 11 (WSL/UBUNTU) 
 Kernel 6.6.87.2-microsoft-standard-WSL2
 Git
 Docker Desktop

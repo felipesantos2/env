@@ -1,3 +1,4 @@
-Google Antigravity
-vscode copilot
-Gemini web app
+Google Antigravity   -> https://antigravity.google/
+Github Copilot
+Copilot Cli          ->   https://github.com/github/copilot-cli
+Gemini Web App       ->   https://gemini.google.com
