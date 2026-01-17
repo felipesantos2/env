@@ -2,3 +2,5 @@ Google Antigravity   -> https://antigravity.google/
 Github Copilot
 Copilot Cli          ->   https://github.com/github/copilot-cli
 Gemini Web App       ->   https://gemini.google.com
+
+Open Code TUI
