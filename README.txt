@@ -19,6 +19,9 @@ pipx            - cli
 poetry          - cli
 
 Google Antigravity
+Open Code TUI
+Zed Editor
+
 
 ## TRABALHO
 
@@ -43,3 +46,5 @@ HTTPie Desktop
   poetry          - cli
 
 Google Antigravity
+Open Code TUI
+Zed Editor
