@@ -49,3 +49,4 @@ Google Antigravity
 Open Code TUI
 Zed Editor
 Raycast(Windows)
+Astro Cli
