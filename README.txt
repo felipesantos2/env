@@ -7,7 +7,6 @@ Docker Desktop
 Zoxide           - cli   https://github.com/ajeetdsouza/zoxide 
 tree             - cli   https://www.cyberciti.biz/faq/linux-show-directory-structure-command-line
 Github Cli       - cli   https://github.com/cli/cli#installation
-vscode
 vscode insiders
 Beekeeper Studio
 Brave
@@ -16,7 +15,6 @@ Ghostty Terminal
 
 UV by Astral
 
-Google Antigravity
 Open Code TUI
 Zed Editor
 
@@ -43,7 +41,6 @@ HTTPie Desktop
   pyenv           - cli - https://github.com/pyenv/pyenv 
   poetry          - cli
 
-Google Antigravity
 Open Code TUI
 Zed Editor
 Raycast(Windows)
