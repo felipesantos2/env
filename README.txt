@@ -14,9 +14,7 @@ Brave
 Chrome
 Ghostty Terminal
 
-pyenv           - cli - https://github.com/pyenv/pyenv
-pipx            - cli 
-poetry          - cli
+UV by Astral
 
 Google Antigravity
 Open Code TUI
